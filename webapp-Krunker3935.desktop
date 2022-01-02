@@ -2,7 +2,7 @@
 Version=1.0
 Name=Krunker
 Comment=Web App
-Exec=chromium-browser --app=https://krunker.io --class=WebApp-Krunker3935 --user-data-dir=/home/pi/.local/share/ice/profiles/Krunker3935
+Exec=chromium-browser --app=https://krunker.io --class=WebApp-Krunker3935
 Terminal=false
 X-MultipleArgs=false
 Type=Application
