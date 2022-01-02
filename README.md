@@ -13,14 +13,14 @@ Copy the below and it will do it for you
 ## Install
 ```sh
 git clone https://github.com/220735540/Krunker-RaspberryPi/
-cd "Krunker-Raspberry-Pi/Pi-Ware Install Data"
+cd "/home/pi/Krunker-RaspberryPi/Pi-Ware Install Data/"
 bash install
 ```
 Enjoy!
 
 ## Uninstall Krunker
 ```sh
-cd "Krunker-Raspberry-Pi/Pi-Ware Install Data"
+cd "Krunker-Raspberry-Pi/Pi-Ware Install Data/"
 bash uninstall
 ```
 Enjoy Krunker For Raspberry Pi
