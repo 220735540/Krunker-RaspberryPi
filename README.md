@@ -5,7 +5,8 @@ Krunker is a fast-paced first person shooter with many game modes.
 This awsome game has now been Ported' to arm devices thanks to me (And some special dependencies)!
   
 # Updates:
-No Updates Yet
+- Script Fixes
+- App Fixes
 </div>
   
 # How to install Krunker
@@ -21,7 +22,7 @@ Enjoy!
 ## Uninstall Krunker
 ```sh
 wget https://github.com/220735540/Krunker-RaspberryPi/blob/main/Pi-Ware%20Install%20Data/uninstall
-chmod +x install
+chmod +x uninstall
 ./uninstall
 rm -rf uninstall && rm -rf install
 ```
