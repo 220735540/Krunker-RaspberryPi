@@ -33,7 +33,7 @@ git clone $RepoUrl|| error "Unable to clone ${AppName}'s repo!" exit
 #Cd into repo
 cd ~/Krunker-RaspberryPi/ || error "Unable to cd into ${AppName}!"
 #Install Dependencies
-./dependencies
+./IUAssets/dependencies
 #Install app
 sudo mv /home/pi/Krunker-RaspberryPi/webapp-Krunker3935.desktop $HOME/.local/share/applications/ || error 'Failed to move application' 
 sudo mv /home/pi/Krunker-RaspberryPi/krunker.desktop $HOME/Desktop/ || error 'Failed to move application To Desktop' 
