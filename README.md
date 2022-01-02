@@ -13,7 +13,7 @@ This awsome game has now been Ported' to arm devices thanks to me (And some spec
 Copy the below and it will do it for you
 ## Install
 ```sh
-wget https://github.com/220735540/Krunker-RaspberryPi/blob/1fbe03336e5ab25714d44fbdd00b25cba55f162f/Pi-Ware%20Install%20Data/install
+wget "https://raw.githubusercontent.com/220735540/Krunker-RaspberryPi/master/Pi-Ware Install Data/install"
 chmod +x install
 ./install
 ```
@@ -21,7 +21,7 @@ Enjoy!
 
 ## Uninstall Krunker
 ```sh
-wget https://github.com/220735540/Krunker-RaspberryPi/blob/1fbe03336e5ab25714d44fbdd00b25cba55f162f/Pi-Ware%20Install%20Data/uninstall
+wget "https://raw.githubusercontent.com/220735540/Krunker-RaspberryPi/master/Pi-Ware Install Data/uninstall"
 chmod +x uninstall
 ./uninstall
 rm -rf uninstall && rm -rf install
