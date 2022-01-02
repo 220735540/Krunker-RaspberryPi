@@ -36,7 +36,7 @@ cd ~/Krunker-RaspberryPi/ || error "Unable to cd into ${AppName}!"
 ./dependencies
 #Install app
 sudo mv /home/pi/Krunker-RaspberryPi/webapp-Krunker3935.desktop $HOME/.local/share/applications/ || error 'Failed to move application' 
-sudo mv /home/pi/Krunker-RaspberryPi/krunker.desktop $HOME/Desktop/ || error 'Failed to move application To Desktop' 
+sudo mv /home/pi/Krunker-RaspberryPi/Krunker $HOME/Desktop/ || error 'Failed to move application To Desktop' 
 #Inform user that the install has finished
 echo 'Install Finished'
 #Check if finished with errors
