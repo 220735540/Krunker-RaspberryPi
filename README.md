@@ -1,5 +1,5 @@
 <div align='center'>
-<img src='./icon.png' width='128px'> 
+<img src='./icon2.png' width='128px'> 
 <h1>Krunker For Pi!</h1>
 Krunker is a fast-paced first person shooter with many game modes.
 This awsome game has now been Ported' to arm devices thanks to me (And some special dependencies)!
