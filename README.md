@@ -13,14 +13,16 @@ Copy the below and it will do it for you
 ## Install
 ```sh
 wget https://github.com/220735540/Krunker-RaspberryPi/blob/main/Pi-Ware%20Install%20Data/install
-bash install
+chmod +x install
+./install
 ```
 Enjoy!
 
 ## Uninstall Krunker
 ```sh
 wget https://github.com/220735540/Krunker-RaspberryPi/blob/main/Pi-Ware%20Install%20Data/uninstall
-bash uninstall
+chmod +x install
+./uninstall
 rm -rf uninstall && rm -rf install
 ```
 Enjoy Krunker For Raspberry Pi
