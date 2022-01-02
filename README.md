@@ -4,7 +4,7 @@
 Krunker is a fast paced shooting game, and the players have to fight with each other in order to defeat others and make more points.</br>
 I have happly ported this game to rasberry pi via webapp transfomations.</br>
 Any problems with the app just play it <a href='https://krunker.io'>here</a>.</br>
-For best performance set your resolution to 640x480 go to:</br>
+For best performance set your resolution to 640x480 by going to:</br>
 Menu > Preferences > Screen Configuration > Configure > HDMI1 > Resolution > 640x480
   
 # Updates:
