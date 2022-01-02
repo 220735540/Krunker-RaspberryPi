@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Krunker
+Comment=Web App
+Exec=chromium-browser --app=https://krunker.io --class=WebApp-Krunker3935 --user-data-dir=/home/pi/.local/share/ice/profiles/Krunker3935
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/pi/.local/share/ice/icons/Krunker.png
+Categories=GTK;Game;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Krunker3935
+StartupNotify=true
+X-WebApp-URL=https://krunker.io
+X-WebApp-Isolated=true
