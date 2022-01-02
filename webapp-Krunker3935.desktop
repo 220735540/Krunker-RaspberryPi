@@ -6,7 +6,7 @@ Exec=chromium-browser --app=https://krunker.io --class=WebApp-Krunker3935 --user
 Terminal=false
 X-MultipleArgs=false
 Type=Application
-Icon=Icon=/home/pi/Desktop/Programming/icon.png
+Icon=/home/pi/Krunker-RaspberryPi/IUAssets/icon.png
 Categories=GTK;Game;
 MimeType=text/html;text/xml;application/xhtml_xml;
 StartupWMClass=WebApp-Krunker3935
