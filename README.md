@@ -12,14 +12,14 @@ No Updates Yet
 Copy the below and it will do it for you
 ## Install
 ```sh
-wget https://github.com/220735540/Krunker-RaspberryPi/blob/main/Pi-Ware%20Install%20Data/install"
+wget https://github.com/220735540/Krunker-RaspberryPi/blob/main/Pi-Ware%20Install%20Data/install
 bash install
 ```
 Enjoy!
 
 ## Uninstall Krunker
 ```sh
-wget https://github.com/220735540/Krunker-RaspberryPi/blob/main/Pi-Ware%20Install%20Data/uninstall"
+wget https://github.com/220735540/Krunker-RaspberryPi/blob/main/Pi-Ware%20Install%20Data/uninstall
 bash uninstall
 rm -rf uninstall && rm -rf install
 ```
