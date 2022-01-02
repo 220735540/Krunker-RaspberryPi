@@ -18,7 +18,7 @@ bash install
 ```
 Enjoy!
 
-## Uninstall Pi-Ware
+## Uninstall Krunker
 ```sh
 cd "Krunker-Raspberry-Pi/Pi-Ware Install Data"
 bash uninstall
