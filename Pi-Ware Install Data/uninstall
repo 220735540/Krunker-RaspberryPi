@@ -28,7 +28,7 @@ warning 5 "Warning: Uninstall $AppName will remove any saved data associated wit
 #Remove AppNames's folder
 rm -rf ~/Krunker-RaspberryPi || error 'Failed to remove $AppName folder'
 sudo rm -rf ~/.local/share/applications/webapp-Krunker3935.desktop || error 'Failed to unistall app'
-sudo rm -rf ~/Desktop/krunker.desktop || error 'Failed to unistall app'
+sudo rm -rf ~/Desktop/Krunker || error 'Failed to unistall app'
 #Inform user that the uninstall has finished
 echo 'Uninstall Finished...'
 #Check if finished with errors
