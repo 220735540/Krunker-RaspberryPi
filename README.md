@@ -1,8 +1,9 @@
 <div align='center'>
 <img src='./icon.png' width='128px'> 
 <h3>Krunker For Pi!</h1>
-Krunker is a fast-paced first person shooter with many game modes.
-This awsome game has now been Ported' to arm devices thanks to me (And some special dependencies)!
+Krunker is a fast paced shooting game, and the players have to fight with each other in order to defeat others and make more points.</b>
+I have happly ported this game to rasberry pi via webapp transfomations.</b>
+Any problems with the app just play it <a href='https://krunker.io'>here</a>.
   
 # Updates:
 - Script Fixes
