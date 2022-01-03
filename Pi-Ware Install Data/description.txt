@@ -1,3 +1,6 @@
-Krunker for arm using its website turned to webapp
+Krunker is a fast paced shooting game, and the players have to fight with each other in order to defeat others and make more points.
+I have happly ported this game to rasberry pi via webapp conversion.
+For best performance set your resolution to 640x480 by going to:
+Menu > Preferences > Screen Configuration > Configure > HDMI1 > Resolution > 640x480
 
 By Rp400 (220735540)
